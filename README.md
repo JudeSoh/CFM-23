@@ -1,2 +1,6 @@
 # CFM-23
-Exploratory analysis and first attemps for the CFM 23 ENS DataChallenge
+Exploratory analysis and first attempts for the CFM 23 ENS DataChallenge
+
+
+In Explanatory analysis, you will find some data exploration as well as some light attempts. 
+
